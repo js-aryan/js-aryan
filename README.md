@@ -1,10 +1,10 @@
-## 👋 Hi, I’m Vora Aryan
-## 👨‍💻 I’m a Full Stack Web Development enthusiast🌐.
-## 🎓 I’m currently doing MCA at LDRP-ITR, Gandhinagar.
+### 👋 Hi, I’m Vora Aryan
+### 👨‍💻 I’m a Full Stack Web Development enthusiast🌐.
+### 🎓 I’m currently doing MCA at LDRP-ITR, Gandhinagar.
 ___
 
 
-##  ⚙ Technologies and tools I have worked with :
+###  ⚙ Technologies and tools I have worked with :
 ### Languages : 
 <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,kotlin,php,swift" />
 
